@@ -1,6 +1,6 @@
 # equity-research-eicher-motors
 
-This equity research report is on Eicher Motors Ltd. It reports gives a comprehensive quantitative and qualitative analysis of the company to assess its intrinsic value and investment potential. The process involved forecasting future sales growth, key operational metrics, and estimating future cash flows. These projections were then used in a discounted cash flow (DCF) model to determine the company’s intrinsic value. The study aimed to support investment decisions based on fundamental financial indicators rather than market speculation.
+This equity research report is on Eicher Motors Ltd. It gives a comprehensive quantitative and qualitative analysis of the company to assess its intrinsic value and investment potential. The process involved was first forecasting future sales growth and then these projections were then used in a discounted cash flow (DCF) model to determine the company’s intrinsic value. The study aimed to support investment decisions based on fundamental financial indicators rather than market speculation.
 
 ### Disclaimer
 
